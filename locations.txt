@@ -1,0 +1,27 @@
+Location,Longitude,Latitude
+Manchester,-2.2426,53.4808
+Bethnal Green,-0.0590,51.5271
+Birmingham,-1.8936,52.4862
+Edinburgh,-3.1883,55.9533
+Soho,-0.1357,51.5136
+Kensington,-0.1947,51.4991
+Shoreditch,-0.0755,51.5252
+Mayfair,-0.1426,51.5085
+Dalston,-0.0759,51.5465
+Hackney,-0.0701,51.5450
+Leeds,-1.6174,53.7997
+Cardiff,-3.1772,51.4816
+Bristol,-2.6174,51.4545
+Newington Green,-0.0918,51.5512
+Covent Garden,-0.1240,51.5117
+Bath,-2.3590,51.3758
+Crouch End,-0.1258,51.5806
+Spitalfields,-0.0773,51.5202
+Glasgow,-4.2514,55.8642
+Holborn,-0.1189,51.5171
+Islington,-0.1022,51.5362
+Fitzrovia,-0.1386,51.5193
+Sheffield,-1.4701,53.3811
+Bournemouth,-1.8807,50.7192
+South Bank,-0.1076,51.5033
+Auchterarder,-3.7194,56.2971

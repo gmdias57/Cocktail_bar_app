@@ -1,0 +1,51 @@
+Rank,Bar,Location
+1,Satan's Whiskers,Bethnal Green
+2,Lab 22,Cardiff
+3,Tayēr + Elementary,Shoreditch
+4,SCHOFIELD'S BAR,Manchester
+5,Swift,Soho
+6,Panda & Sons,Edinburgh
+7,Three Sheets,Dalston
+8,Speak in Code,Manchester
+9,Bar with Shapes for a Name,Hackney
+10,The Connaught,Mayfair
+11,Little Mercies,Crouch End
+12,Couch,Birmingham
+13,Bramble,Edinburgh
+14,The Pineapple Club,Birmingham
+15,Ojo Rojo,Bournemouth
+16,Disrepute,Soho
+17,Artesian,Oxford Circus
+18,Hideout,Bath
+19,Nightjar,Shoreditch
+20,Present Company,Liverpool
+21,Publiq,South Kensington
+22,Scarfes Bar,Holborn
+23,Lyaness,South Bank
+24,Opium Cocktail & Dim Sum,Chinatown
+25,The Absent Ear,Glasgow
+26,Happiness Forgets,Hoxton
+27,Hey Palu,Edinburgh
+28,Filthy XIII,Bristol
+29,Homeboy,Islington
+30,Soma,Soho
+31,Coupette,Bethnal Green
+32,Passing Fancies,Birmingham
+33,Bar Termini,Soho
+34,Seed Library,Shoreditch
+35,Murder Inc,Soho
+36,Penny Royal,Cardiff
+37,Callooh Callay,Shoreditch
+38,Silverleaf,Liverpool St
+39,Public,Sheffield
+40,Fox & Chance,Birmingham
+41,Blinker,Manchester
+42,Below Stairs,Leeds
+43,Milk Thistle,Bristol
+44,Gungho!,Brighton
+45,Hedonist,Leeds
+46,Amaro,Kensington
+47,Cottonmouth,Nottingham
+48,Tabula Rasa,Leeds
+49,Lunar,Glasgow
+50,Bench,Sheffield

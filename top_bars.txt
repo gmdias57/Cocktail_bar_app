@@ -1,0 +1,51 @@
+Rank,Bar,Location
+1st,Schofield's Bar,Manchester
+2nd,Satan's Whiskers,Bethnal Green
+3rd,Passing Fancies,Birmingham
+4th,Couch,Birmingham
+5th,Hey Palu,Edinburgh
+6th,Blinker,Manchester
+7th,Swift,Soho
+8th,AMARO BAR,Kensington
+9th,Panda & Sons,Edinburgh
+10th,Tayér + Elementary,Shoreditch
+11th,Kwãnt ,Mayfair
+12th,Speak In Code,Manchester
+13th,Three Sheets,Dalston
+14th,A bar with shapes for a name,Hackney
+15th,Murder Inc.,Soho
+16th,Tabula Rasa,Leeds
+17th,Lab 22,Cardiff
+18th,Filthy XII,Bristol
+19th,Crossroads,Newington Green
+20th,The Connaught,Mayfair
+21st,Project Halcyon,Manchester
+22nd,SOMA,Soho
+23rd,Eve Bar,Covent Garden
+24th,Side Hustle,Covent Garden
+25th,The Hideout,Bath
+26th,Little Mercies,Crouch End
+27th,Below Stairs,Leeds
+28th,Silverleaf,Spitalfields
+29th,Bar Termini,Soho
+30th,Seed Library,Shoreditch
+31st,Charlie Brown's,Glasgow
+32nd,Bramble,Edinburgh
+33rd,Scarfes Bar,Holborn
+34th,Happiness Forgets,Shoreditch
+35th,The Absent Ear,Glasgow
+36th,The Bar With No Name (69 Colebrooke Row),Islington
+37th,Artesian,Fitzrovia
+38th,Callooh Callay,Shoreditch
+39th,Fox and Chance,Birmingham
+40th,Milk Thistle,Bristol
+41st,Nauticus,Edinburgh
+42nd,Public,Sheffield
+43rd,The Gate,Glasgow
+44th,Nightjar,Shoreditch
+45th,Ojo Rojo,Bournemouth
+46th,The Wildcat,Edinburgh
+47th,Lyaness,South Bank
+48th,Pennyroyal,Cardiff
+49th,Bench,Sheffield
+50th,American Bar Gleneagles,Auchterarder
